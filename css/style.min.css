@@ -523,6 +523,7 @@ body.lock {
   .header_mobile-phonesWrapper {
     display: flex;
     padding: 12px 0 12px 12px;
+    white-space: nowrap;
   }
   ._phones-first-green {
     color: #337D5A;
